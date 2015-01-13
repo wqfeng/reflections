@@ -14,3 +14,19 @@ I can compare the staging area with the most recent commit with `git diff --stag
 ## Whare are some situations when branches would be helpful in keeping history organized? How would branches help?
 
 Branches help in parally development.
+
+## How do the diagrams help you visualize the branch structure?
+
+It helps me know the versions.
+
+## What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+### pros
+
++ automatic merging save time.
+
++ usually an automatic merging is enough.
+
+### cons
+
++ have to merge manually when conflicts happen.
