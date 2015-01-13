@@ -10,3 +10,7 @@ It's quite a tough question!
 ## How can you use the staging area to make sure you have one commit per logical change?
 
 I can compare the staging area with the most recent commit with `git diff --staged`.
+
+## Whare are some situations when branches would be helpful in keeping history organized? How would branches help?
+
+Branches help in parally development.
